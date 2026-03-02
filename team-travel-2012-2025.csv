@@ -1,0 +1,401 @@
+origin,destination,distance
+Belo Horizonte,Belo Horizonte,0
+Belo Horizonte,Curitiba,980
+Belo Horizonte,Goiania,910
+Belo Horizonte,Florianopolis,1264
+Belo Horizonte,Salvador,1370
+Belo Horizonte,Rio de Janeiro,430
+Belo Horizonte,Fortaleza,2150
+Belo Horizonte,Chapeco,1550
+Belo Horizonte,Sao Paulo,590
+Belo Horizonte,Criciuma,1300
+Belo Horizonte,Maceio,2000
+Belo Horizonte,Cuiaba,1700
+Belo Horizonte,Porto Alegre,1350
+Belo Horizonte,Joinville,1100
+Belo Horizonte,Caxias do Sul,1400
+Belo Horizonte,Sao Jose do Rio Preto,700
+Belo Horizonte,Recife,2100
+Belo Horizonte,Campinas,620
+Belo Horizonte,Braganca Paulista,680
+Belo Horizonte,Santos,650
+Curitiba,Belo Horizonte,980
+Curitiba,Curitiba,0
+Curitiba,Goiania,1020
+Curitiba,Florianopolis,300
+Curitiba,Salvador,1950
+Curitiba,Rio de Janeiro,800
+Curitiba,Fortaleza,2400
+Curitiba,Chapeco,500
+Curitiba,Sao Paulo,430
+Curitiba,Criciuma,200
+Curitiba,Maceio,2800
+Curitiba,Cuiaba,1600
+Curitiba,Porto Alegre,700
+Curitiba,Joinville,100
+Curitiba,Caxias do Sul,450
+Curitiba,Sao Jose do Rio Preto,650
+Curitiba,Recife,2900
+Curitiba,Campinas,450
+Curitiba,Braganca Paulista,500
+Curitiba,Santos,500
+Goiania,Belo Horizonte,910
+Goiania,Curitiba,1020
+Goiania,Goiania,0
+Goiania,Florianopolis,1500
+Goiania,Salvador,1450
+Goiania,Rio de Janeiro,1200
+Goiania,Fortaleza,2100
+Goiania,Chapeco,1400
+Goiania,Sao Paulo,900
+Goiania,Criciuma,1700
+Goiania,Maceio,1900
+Goiania,Cuiaba,980
+Goiania,Porto Alegre,1300
+Goiania,Joinville,1100
+Goiania,Caxias do Sul,1400
+Goiania,Sao Jose do Rio Preto,500
+Goiania,Recife,2000
+Goiania,Campinas,950
+Goiania,Braganca Paulista,1000
+Goiania,Santos,950
+Florianopolis,Belo Horizonte,1264
+Florianopolis,Curitiba,300
+Florianopolis,Goiania,1500
+Florianopolis,Florianopolis,0
+Florianopolis,Salvador,2200
+Florianopolis,Rio de Janeiro,1100
+Florianopolis,Fortaleza,2700
+Florianopolis,Chapeco,700
+Florianopolis,Sao Paulo,700
+Florianopolis,Criciuma,180
+Florianopolis,Maceio,3100
+Florianopolis,Cuiaba,1900
+Florianopolis,Porto Alegre,500
+Florianopolis,Joinville,250
+Florianopolis,Caxias do Sul,550
+Florianopolis,Sao Jose do Rio Preto,850
+Florianopolis,Recife,3200
+Florianopolis,Campinas,750
+Florianopolis,Braganca Paulista,800
+Florianopolis,Santos,800
+Salvador,Belo Horizonte,1370
+Salvador,Curitiba,1950
+Salvador,Goiania,1450
+Salvador,Florianopolis,2200
+Salvador,Salvador,0
+Salvador,Rio de Janeiro,1700
+Salvador,Fortaleza,1100
+Salvador,Chapeco,2600
+Salvador,Sao Paulo,1550
+Salvador,Criciuma,2400
+Salvador,Maceio,850
+Salvador,Cuiaba,2400
+Salvador,Porto Alegre,2500
+Salvador,Joinville,2300
+Salvador,Caxias do Sul,2600
+Salvador,Sao Jose do Rio Preto,1700
+Salvador,Recife,700
+Salvador,Campinas,1600
+Salvador,Braganca Paulista,1650
+Salvador,Santos,1650
+Rio de Janeiro,Belo Horizonte,430
+Rio de Janeiro,Curitiba,800
+Rio de Janeiro,Goiania,1200
+Rio de Janeiro,Florianopolis,1100
+Rio de Janeiro,Salvador,1700
+Rio de Janeiro,Rio de Janeiro,0
+Rio de Janeiro,Fortaleza,2400
+Rio de Janeiro,Chapeco,1700
+Rio de Janeiro,Sao Paulo,430
+Rio de Janeiro,Criciuma,1200
+Rio de Janeiro,Maceio,2600
+Rio de Janeiro,Cuiaba,2300
+Rio de Janeiro,Porto Alegre,1600
+Rio de Janeiro,Joinville,1400
+Rio de Janeiro,Caxias do Sul,1700
+Rio de Janeiro,Sao Jose do Rio Preto,950
+Rio de Janeiro,Recife,2500
+Rio de Janeiro,Campinas,450
+Rio de Janeiro,Braganca Paulista,500
+Rio de Janeiro,Santos,450
+Fortaleza,Belo Horizonte,2150
+Fortaleza,Curitiba,2400
+Fortaleza,Goiania,2100
+Fortaleza,Florianopolis,2700
+Fortaleza,Salvador,1100
+Fortaleza,Rio de Janeiro,2400
+Fortaleza,Fortaleza,0
+Fortaleza,Chapeco,3100
+Fortaleza,Sao Paulo,2500
+Fortaleza,Criciuma,2900
+Fortaleza,Maceio,1100
+Fortaleza,Cuiaba,3000
+Fortaleza,Porto Alegre,3400
+Fortaleza,Joinville,3200
+Fortaleza,Caxias do Sul,3500
+Fortaleza,Sao Jose do Rio Preto,2500
+Fortaleza,Recife,800
+Fortaleza,Campinas,2600
+Fortaleza,Braganca Paulista,2600
+Fortaleza,Santos,2600
+Chapeco,Belo Horizonte,1550
+Chapeco,Curitiba,500
+Chapeco,Goiania,1400
+Chapeco,Florianopolis,700
+Chapeco,Salvador,2600
+Chapeco,Rio de Janeiro,1700
+Chapeco,Fortaleza,3100
+Chapeco,Chapeco,0
+Chapeco,Sao Paulo,1000
+Chapeco,Criciuma,450
+Chapeco,Maceio,3300
+Chapeco,Cuiaba,1400
+Chapeco,Porto Alegre,400
+Chapeco,Joinville,450
+Chapeco,Caxias do Sul,200
+Chapeco,Sao Jose do Rio Preto,1100
+Chapeco,Recife,3400
+Chapeco,Campinas,1050
+Chapeco,Braganca Paulista,1100
+Chapeco,Santos,1100
+Sao Paulo,Belo Horizonte,590
+Sao Paulo,Curitiba,430
+Sao Paulo,Goiania,900
+Sao Paulo,Florianopolis,700
+Sao Paulo,Salvador,1550
+Sao Paulo,Rio de Janeiro,430
+Sao Paulo,Fortaleza,2500
+Sao Paulo,Chapeco,1000
+Sao Paulo,Sao Paulo,0
+Sao Paulo,Criciuma,900
+Sao Paulo,Maceio,2700
+Sao Paulo,Cuiaba,1500
+Sao Paulo,Porto Alegre,1100
+Sao Paulo,Joinville,450
+Sao Paulo,Caxias do Sul,800
+Sao Paulo,Sao Jose do Rio Preto,450
+Sao Paulo,Recife,2900
+Sao Paulo,Campinas,100
+Sao Paulo,Braganca Paulista,150
+Sao Paulo,Santos,80
+Criciuma,Belo Horizonte,1300
+Criciuma,Curitiba,200
+Criciuma,Goiania,1700
+Criciuma,Florianopolis,180
+Criciuma,Salvador,2400
+Criciuma,Rio de Janeiro,1200
+Criciuma,Fortaleza,2900
+Criciuma,Chapeco,450
+Criciuma,Sao Paulo,900
+Criciuma,Criciuma,0
+Criciuma,Maceio,3200
+Criciuma,Cuiaba,2000
+Criciuma,Porto Alegre,300
+Criciuma,Joinville,200
+Criciuma,Caxias do Sul,400
+Criciuma,Sao Jose do Rio Preto,900
+Criciuma,Recife,3300
+Criciuma,Campinas,950
+Criciuma,Braganca Paulista,1000
+Criciuma,Santos,1000
+Maceio,Belo Horizonte,2000
+Maceio,Curitiba,2800
+Maceio,Goiania,1900
+Maceio,Florianopolis,3100
+Maceio,Salvador,850
+Maceio,Rio de Janeiro,2600
+Maceio,Fortaleza,1100
+Maceio,Chapeco,3300
+Maceio,Sao Paulo,2700
+Maceio,Criciuma,3200
+Maceio,Maceio,0
+Maceio,Cuiaba,2800
+Maceio,Porto Alegre,3300
+Maceio,Joinville,3100
+Maceio,Caxias do Sul,3400
+Maceio,Sao Jose do Rio Preto,2700
+Maceio,Recife,300
+Maceio,Campinas,2800
+Maceio,Braganca Paulista,2850
+Maceio,Santos,2850
+Cuiaba,Belo Horizonte,1700
+Cuiaba,Curitiba,1600
+Cuiaba,Goiania,980
+Cuiaba,Florianopolis,1900
+Cuiaba,Salvador,2400
+Cuiaba,Rio de Janeiro,2300
+Cuiaba,Fortaleza,3000
+Cuiaba,Chapeco,1400
+Cuiaba,Sao Paulo,1500
+Cuiaba,Criciuma,2000
+Cuiaba,Maceio,2800
+Cuiaba,Cuiaba,0
+Cuiaba,Porto Alegre,2100
+Cuiaba,Joinville,1900
+Cuiaba,Caxias do Sul,2200
+Cuiaba,Sao Jose do Rio Preto,800
+Cuiaba,Recife,2900
+Cuiaba,Campinas,1550
+Cuiaba,Braganca Paulista,1600
+Cuiaba,Santos,1600
+Porto Alegre,Belo Horizonte,1350
+Porto Alegre,Curitiba,700
+Porto Alegre,Goiania,1300
+Porto Alegre,Florianopolis,500
+Porto Alegre,Salvador,2500
+Porto Alegre,Rio de Janeiro,1600
+Porto Alegre,Fortaleza,3400
+Porto Alegre,Chapeco,400
+Porto Alegre,Sao Paulo,1100
+Porto Alegre,Criciuma,300
+Porto Alegre,Maceio,3300
+Porto Alegre,Cuiaba,2100
+Porto Alegre,Porto Alegre,0
+Porto Alegre,Joinville,500
+Porto Alegre,Caxias do Sul,150
+Porto Alegre,Sao Jose do Rio Preto,1200
+Porto Alegre,Recife,3400
+Porto Alegre,Campinas,1150
+Porto Alegre,Braganca Paulista,1200
+Porto Alegre,Santos,1200
+Joinville,Belo Horizonte,1100
+Joinville,Curitiba,100
+Joinville,Goiania,1100
+Joinville,Florianopolis,250
+Joinville,Salvador,2300
+Joinville,Rio de Janeiro,1400
+Joinville,Fortaleza,3200
+Joinville,Chapeco,450
+Joinville,Sao Paulo,450
+Joinville,Criciuma,200
+Joinville,Maceio,3100
+Joinville,Cuiaba,1900
+Joinville,Porto Alegre,500
+Joinville,Joinville,0
+Joinville,Caxias do Sul,400
+Joinville,Sao Jose do Rio Preto,500
+Joinville,Recife,3300
+Joinville,Campinas,450
+Joinville,Braganca Paulista,500
+Joinville,Santos,500
+Caxias do Sul,Belo Horizonte,1400
+Caxias do Sul,Curitiba,450
+Caxias do Sul,Goiania,1400
+Caxias do Sul,Florianopolis,550
+Caxias do Sul,Salvador,2600
+Caxias do Sul,Rio de Janeiro,1700
+Caxias do Sul,Fortaleza,3500
+Caxias do Sul,Chapeco,200
+Caxias do Sul,Sao Paulo,800
+Caxias do Sul,Criciuma,400
+Caxias do Sul,Maceio,3400
+Caxias do Sul,Cuiaba,2200
+Caxias do Sul,Porto Alegre,150
+Caxias do Sul,Joinville,400
+Caxias do Sul,Caxias do Sul,0
+Caxias do Sul,Sao Jose do Rio Preto,1100
+Caxias do Sul,Recife,3500
+Caxias do Sul,Campinas,850
+Caxias do Sul,Braganca Paulista,900
+Caxias do Sul,Santos,900
+Sao Jose do Rio Preto,Belo Horizonte,700
+Sao Jose do Rio Preto,Curitiba,650
+Sao Jose do Rio Preto,Goiania,500
+Sao Jose do Rio Preto,Florianopolis,850
+Sao Jose do Rio Preto,Salvador,1700
+Sao Jose do Rio Preto,Rio de Janeiro,950
+Sao Jose do Rio Preto,Fortaleza,2500
+Sao Jose do Rio Preto,Chapeco,1100
+Sao Jose do Rio Preto,Sao Paulo,450
+Sao Jose do Rio Preto,Criciuma,900
+Sao Jose do Rio Preto,Maceio,2700
+Sao Jose do Rio Preto,Cuiaba,800
+Sao Jose do Rio Preto,Porto Alegre,1200
+Sao Jose do Rio Preto,Joinville,500
+Sao Jose do Rio Preto,Caxias do Sul,1100
+Sao Jose do Rio Preto,Sao Jose do Rio Preto,0
+Sao Jose do Rio Preto,Recife,2900
+Sao Jose do Rio Preto,Campinas,400
+Sao Jose do Rio Preto,Braganca Paulista,450
+Sao Jose do Rio Preto,Santos,450
+Recife,Belo Horizonte,2100
+Recife,Curitiba,2900
+Recife,Goiania,2000
+Recife,Florianopolis,3200
+Recife,Salvador,700
+Recife,Rio de Janeiro,2500
+Recife,Fortaleza,800
+Recife,Chapeco,3400
+Recife,Sao Paulo,2900
+Recife,Criciuma,3300
+Recife,Maceio,300
+Recife,Cuiaba,2900
+Recife,Porto Alegre,3400
+Recife,Joinville,3300
+Recife,Caxias do Sul,3500
+Recife,Sao Jose do Rio Preto,2900
+Recife,Recife,0
+Recife,Campinas,3000
+Recife,Braganca Paulista,3050
+Recife,Santos,3050
+Campinas,Belo Horizonte,620
+Campinas,Curitiba,450
+Campinas,Goiania,950
+Campinas,Florianopolis,750
+Campinas,Salvador,1600
+Campinas,Rio de Janeiro,450
+Campinas,Fortaleza,2600
+Campinas,Chapeco,1050
+Campinas,Sao Paulo,100
+Campinas,Criciuma,950
+Campinas,Maceio,2800
+Campinas,Cuiaba,1550
+Campinas,Porto Alegre,1150
+Campinas,Joinville,450
+Campinas,Caxias do Sul,850
+Campinas,Sao Jose do Rio Preto,400
+Campinas,Recife,3000
+Campinas,Campinas,0
+Campinas,Braganca Paulista,80
+Campinas,Santos,130
+Braganca Paulista,Belo Horizonte,680
+Braganca Paulista,Curitiba,500
+Braganca Paulista,Goiania,1000
+Braganca Paulista,Florianopolis,800
+Braganca Paulista,Salvador,1650
+Braganca Paulista,Rio de Janeiro,500
+Braganca Paulista,Fortaleza,2600
+Braganca Paulista,Chapeco,1100
+Braganca Paulista,Sao Paulo,150
+Braganca Paulista,Criciuma,1000
+Braganca Paulista,Maceio,2850
+Braganca Paulista,Cuiaba,1600
+Braganca Paulista,Porto Alegre,1200
+Braganca Paulista,Joinville,500
+Braganca Paulista,Caxias do Sul,900
+Braganca Paulista,Sao Jose do Rio Preto,450
+Braganca Paulista,Recife,3050
+Braganca Paulista,Campinas,80
+Braganca Paulista,Braganca Paulista,0
+Braganca Paulista,Santos,200
+Santos,Belo Horizonte,650
+Santos,Curitiba,500
+Santos,Goiania,950
+Santos,Florianopolis,800
+Santos,Salvador,1650
+Santos,Rio de Janeiro,450
+Santos,Fortaleza,2600
+Santos,Chapeco,1100
+Santos,Sao Paulo,80
+Santos,Criciuma,1000
+Santos,Maceio,2850
+Santos,Cuiaba,1600
+Santos,Porto Alegre,1200
+Santos,Joinville,500
+Santos,Caxias do Sul,900
+Santos,Sao Jose do Rio Preto,450
+Santos,Recife,3050
+Santos,Campinas,130
+Santos,Braganca Paulista,200
+Santos,Santos,0
